@@ -81,7 +81,7 @@
     "crypto-random-string": "^1.0.0",
     "marked": "^1.1.1",
     "dompurify": "^2.0.12",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "form-data": "^3.0.0"
   },
   "devDependencies": {},
